@@ -1,1 +1,1 @@
-# viralx-backend
+# ViralX Backend
